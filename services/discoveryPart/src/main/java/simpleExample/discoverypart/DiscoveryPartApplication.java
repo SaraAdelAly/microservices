@@ -10,6 +10,7 @@ public class DiscoveryPartApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DiscoveryPartApplication.class, args);
+        
     }
 
 }
