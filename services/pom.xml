@@ -13,5 +13,8 @@
 <modules>
   <module>configserverPart</module>
   <module>discoveryPart</module>
+  <module>student</module>
+  <module>school</module>
+  <module>gatewayPart</module>
 </modules>
 </project>
