@@ -4,9 +4,5 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/configserverPart" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/discoveryPart" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/gatewayPart" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/school" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/student" vcs="Git" />
   </component>
 </project>
